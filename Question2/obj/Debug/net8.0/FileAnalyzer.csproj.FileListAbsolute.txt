@@ -1,0 +1,15 @@
+E:\PRN212\HomeWork\Question2\bin\Debug\net8.0\FileAnalyzer.exe
+E:\PRN212\HomeWork\Question2\bin\Debug\net8.0\FileAnalyzer.deps.json
+E:\PRN212\HomeWork\Question2\bin\Debug\net8.0\FileAnalyzer.runtimeconfig.json
+E:\PRN212\HomeWork\Question2\bin\Debug\net8.0\FileAnalyzer.dll
+E:\PRN212\HomeWork\Question2\bin\Debug\net8.0\FileAnalyzer.pdb
+E:\PRN212\HomeWork\Question2\obj\Debug\net8.0\FileAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\HomeWork\Question2\obj\Debug\net8.0\FileAnalyzer.AssemblyInfoInputs.cache
+E:\PRN212\HomeWork\Question2\obj\Debug\net8.0\FileAnalyzer.AssemblyInfo.cs
+E:\PRN212\HomeWork\Question2\obj\Debug\net8.0\FileAnalyzer.csproj.CoreCompileInputs.cache
+E:\PRN212\HomeWork\Question2\obj\Debug\net8.0\FileAnalyzer.sourcelink.json
+E:\PRN212\HomeWork\Question2\obj\Debug\net8.0\FileAnalyzer.dll
+E:\PRN212\HomeWork\Question2\obj\Debug\net8.0\refint\FileAnalyzer.dll
+E:\PRN212\HomeWork\Question2\obj\Debug\net8.0\FileAnalyzer.pdb
+E:\PRN212\HomeWork\Question2\obj\Debug\net8.0\FileAnalyzer.genruntimeconfig.cache
+E:\PRN212\HomeWork\Question2\obj\Debug\net8.0\ref\FileAnalyzer.dll

@@ -1,0 +1,7 @@
+﻿The quick brown fox jumps over the lazy dog. This sentence contains every letter of the alphabet.
+
+Learning C# is fun and rewarding! Developers around the world use it to build powerful applications.
+
+How many words can you find in this text? Can you identify the most common ones? Let's find out.
+
+Remember: practice makes perfect. Keep coding every day, and you'll improve steadily.

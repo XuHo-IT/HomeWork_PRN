@@ -1,0 +1,15 @@
+E:\PRN212\HomeWork\Question3\bin\Debug\net8.0\TaskScheduler.exe
+E:\PRN212\HomeWork\Question3\bin\Debug\net8.0\TaskScheduler.deps.json
+E:\PRN212\HomeWork\Question3\bin\Debug\net8.0\TaskScheduler.runtimeconfig.json
+E:\PRN212\HomeWork\Question3\bin\Debug\net8.0\TaskScheduler.dll
+E:\PRN212\HomeWork\Question3\bin\Debug\net8.0\TaskScheduler.pdb
+E:\PRN212\HomeWork\Question3\obj\Debug\net8.0\TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\HomeWork\Question3\obj\Debug\net8.0\TaskScheduler.AssemblyInfoInputs.cache
+E:\PRN212\HomeWork\Question3\obj\Debug\net8.0\TaskScheduler.AssemblyInfo.cs
+E:\PRN212\HomeWork\Question3\obj\Debug\net8.0\TaskScheduler.csproj.CoreCompileInputs.cache
+E:\PRN212\HomeWork\Question3\obj\Debug\net8.0\TaskScheduler.sourcelink.json
+E:\PRN212\HomeWork\Question3\obj\Debug\net8.0\TaskScheduler.dll
+E:\PRN212\HomeWork\Question3\obj\Debug\net8.0\refint\TaskScheduler.dll
+E:\PRN212\HomeWork\Question3\obj\Debug\net8.0\TaskScheduler.pdb
+E:\PRN212\HomeWork\Question3\obj\Debug\net8.0\TaskScheduler.genruntimeconfig.cache
+E:\PRN212\HomeWork\Question3\obj\Debug\net8.0\ref\TaskScheduler.dll

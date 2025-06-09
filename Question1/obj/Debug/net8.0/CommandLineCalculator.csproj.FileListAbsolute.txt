@@ -1,0 +1,15 @@
+E:\PRN212\HomeWork\Question1\bin\Debug\net8.0\CommandLineCalculator.exe
+E:\PRN212\HomeWork\Question1\bin\Debug\net8.0\CommandLineCalculator.deps.json
+E:\PRN212\HomeWork\Question1\bin\Debug\net8.0\CommandLineCalculator.runtimeconfig.json
+E:\PRN212\HomeWork\Question1\bin\Debug\net8.0\CommandLineCalculator.dll
+E:\PRN212\HomeWork\Question1\bin\Debug\net8.0\CommandLineCalculator.pdb
+E:\PRN212\HomeWork\Question1\obj\Debug\net8.0\CommandLineCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\HomeWork\Question1\obj\Debug\net8.0\CommandLineCalculator.AssemblyInfoInputs.cache
+E:\PRN212\HomeWork\Question1\obj\Debug\net8.0\CommandLineCalculator.AssemblyInfo.cs
+E:\PRN212\HomeWork\Question1\obj\Debug\net8.0\CommandLineCalculator.csproj.CoreCompileInputs.cache
+E:\PRN212\HomeWork\Question1\obj\Debug\net8.0\CommandLineCalculator.sourcelink.json
+E:\PRN212\HomeWork\Question1\obj\Debug\net8.0\CommandLineCalculator.dll
+E:\PRN212\HomeWork\Question1\obj\Debug\net8.0\refint\CommandLineCalculator.dll
+E:\PRN212\HomeWork\Question1\obj\Debug\net8.0\CommandLineCalculator.pdb
+E:\PRN212\HomeWork\Question1\obj\Debug\net8.0\CommandLineCalculator.genruntimeconfig.cache
+E:\PRN212\HomeWork\Question1\obj\Debug\net8.0\ref\CommandLineCalculator.dll
